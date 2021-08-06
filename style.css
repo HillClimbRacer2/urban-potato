@@ -1,0 +1,85 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.places{
+  
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.places img{
+    width: 100%;
+    margin: 30px;
+}
+.places h5,.places p{
+       margin: 30px;
+}
+.movie_name{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.movie_name i{
+    float: right;
+}
+.movie_text span{
+    color: gold;
+}
+.environment1{
+    margin-top: 13px;
+    
+}
+.environment1 h4{
+  border-bottom: 1px solid white;  
+    padding: 8px;
+}
+.environment1 img{
+    border-radius: 25px;
+}
+.environment1 p{
+    margin-top: 10px;
+    font-size:15px;
+}
+#footer iframe{
+    width:100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+.header_quote{
+    line-height: 2;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+    
+}
+.img_modal{
+    display: inline;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
